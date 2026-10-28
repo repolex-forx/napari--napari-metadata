@@ -1,0 +1,11 @@
+{
+  "org": "napari",
+  "repo": "napari-metadata",
+  "versions": [
+    {
+      "commit": "031f26c87c5cfe61f593ba01bfbfaece1974dbce",
+      "tag": "v0.5.0",
+      "parsed_at": "2026-10-28T13:39:04.157135+00:00"
+    }
+  ]
+}
